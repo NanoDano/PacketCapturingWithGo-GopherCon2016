@@ -14,8 +14,10 @@
 
 ## Reference
 
-* PacketCapturingWithGo.pdf - My slides from GopherCon2016
-* https://github.com/google/gopacket
-* https://godoc.org/github.com/google/gopacket
+* PacketCapturingWithGo.pdf - My slides from GopherCon2016 (included in this repo)
 * http://www.devdungeon.com/content/packet-capture-injection-and-analysis-gopacket
 * http://www.devdungeon.com/content/using-libpcap-c
+* https://github.com/GopherCon/2016-talks/JohnLeon-PacketCapturingWithGo
+* https://github.com/google/gopacket
+* https://godoc.org/github.com/google/gopacket
+
